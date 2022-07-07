@@ -1,5 +1,5 @@
 {
-    "ENVIRONMENT_NAME": {
+    "fargate-env": {
         "role": "arn:aws:iam::529160314193:role/ExampleGithubRole",
         "region": "ap-northeast-1",
         "state_bucket":"aws-proton-terraform-bucket-529160314193"
