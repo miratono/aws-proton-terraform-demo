@@ -1,5 +1,5 @@
 {
-  "deploymentId" : "cc70cfde-ca65-4a04-ba1c-0169d3e128ef",
+  "deploymentId" : "6a207beb-3e09-4947-bcdd-3c885d8a4387",
   "isResourceDeleted" : false,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:ap-northeast-1:529160314193:service/ecs-static-website/pipeline",
