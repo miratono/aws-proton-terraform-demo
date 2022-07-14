@@ -1,6 +1,6 @@
 {
-  "deploymentId" : "03906cd4-ceb9-41fc-beba-ce2a3a1af24e",
-  "isResourceDeleted" : false,
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:ap-northeast-1:529160314193:service/ecs-static-website/service-instance/fargate-instance",
     "templateArn" : "arn:aws:proton:ap-northeast-1:529160314193:service-template/load-balanced-fargate-svc",
