@@ -1,0 +1,11 @@
+{
+  "deploymentId" : "e88cf036-a6d8-40b8-9208-ca8d2124e604",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:ap-northeast-1:529160314193:service/load-balanced-fargate-try-svc/service-instance/fargate-instance-try",
+    "templateArn" : "arn:aws:proton:ap-northeast-1:529160314193:service-template/load-balanced-fargate-svc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0",
+    "environmentArn" : "arn:aws:proton:ap-northeast-1:529160314193:environment/fargate-env"
+  }
+}
